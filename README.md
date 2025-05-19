@@ -33,3 +33,5 @@ Youtube Downloader in PyQt5
 📌 Notes
 - The script supports multiple video URLs.
 - You can download MP3 audio files in different bitrates, or complete videos as .mkv.
+
+<img src="https://github.com/GoatWithCode/Youtube-Downloader/blob/main/Screenshot%202025-05-19%20152554.png" alt="Girl in a jacket" width="500" height="600">
