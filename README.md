@@ -5,17 +5,23 @@ Youtube Downloader in PyQt5
 
 📁 1. Requirements
     Make sure you have Python 3.8 or higher installed:  
+    The Application use ffmpeg
+   
+    https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
+    
 
 📦 2. Install Required Packages
+    
     pip install PyQt5 PyQtWebEngine yt-dlp
 
 📂 3. Project Structure
 
     youtube_downloader/
-    ├── downloader.py           ← your main script
-    ├── goat_logo.png           ← animated splash logo
-    ├── youtube.ico             ← window icon
+    ├── downloader.py           
+    ├── ffmpeg                  
+    ├── goat_logo.png           
+    ├── youtube.ico             
     └── downloads/              ← auto-created for finished files
 
 
