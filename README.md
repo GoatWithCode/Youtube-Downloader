@@ -5,11 +5,10 @@ Youtube Downloader in PyQt5
 
 📁 1. Requirements
     Make sure you have Python 3.8 or higher installed:  
-    The Application use ffmpeg
-   
+    
+    The Application use ffmpeg download here:
     https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
 
-    
 
 📦 2. Install Required Packages
     
