@@ -21,8 +21,8 @@ Youtube Downloader in PyQt5
 
 
 📦 5. Build with PyInstaller (Optional)
+    
     pyinstaller --noconfirm --windowed --icon=youtube.ico --add-data "goat_logo.png;." downloader.py
-
 
 📌 Notes
 - The script supports multiple video URLs.
