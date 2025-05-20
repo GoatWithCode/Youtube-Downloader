@@ -36,4 +36,4 @@ Youtube Downloader in PyQt5
 - You can Download the Binary here: https://c.gmx.net/@329938113155568689/wq6hzWsyPuDKUyHVwcUi8Q
   
 
-<img src="https://github.com/GoatWithCode/Youtube-Downloader/blob/main/Screenshot%202025-05-19%20152554.png" alt="Girl in a jacket" width="800" height="400">
+<img src="https://github.com/GoatWithCode/Youtube-Downloader/blob/main/Screenshot%202025-05-19%20152554.png" alt="Youtube-downloader" width="800" height="400">
